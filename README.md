@@ -1,5 +1,5 @@
 <h1 align="center">Zeynep Asli Erhan <img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/images/Profile/hi.gif" height="30" width="30"></h1>
-<h3 align="center"><img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/images/Profile/Gmail.png" height="30" width="30"> How to reach me: zeynepaslierhan@gmail.com</h3>
+<h3 align="center"><img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/images/Profile/Gmail.png" height="30" width="35"> How to reach me: zeynepaslierhan@gmail.com</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zeynepaslierhan&label=Profile%20views&color=0e75b6&style=flat" alt="zeynepaslierhan" /> </p>
 <h3 align="center">My Accounts:</h3>
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <h3 align="center">Languages:</h3>
-<p align="center"> <a target="_blank" rel="noreferrer"> <img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/images/Languages/C.png" alt="c" width="40" height="40"/> </a> <a  target="_blank" rel="noreferrer"> <img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/images/Languages/Csharp.png" alt="csharp" width="40" height="40"/> </a> <a  target="_blank" rel="noreferrer"> <img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/images/Languages/java.png" alt="java" width="40" height="40"/> </a> <a  target="_blank" rel="noreferrer"> <img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/images/Languages/javascript.png" alt="javascript" width="40" height="40"/> </a> <a  target="_blank" rel="noreferrer"> <img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/images/Languages/python.png" alt="python" width="40" height="40"/> </a> </p>
+<p align="center"> <a target="_blank" rel="noreferrer"> <img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/images/Languages/C.png" alt="c" width="40" height="40"/> </a> <a  target="_blank" rel="noreferrer"> <img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/images/Languages/Csharp.png" alt="csharp" width="40" height="40"/> </a> <a  target="_blank" rel="noreferrer"> <img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/images/Languages/java.png" alt="java" width="40" height="40"/> </a> <a  target="_blank" rel="noreferrer"> <img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/images/Languages/js.svg" alt="javascript" width="40" height="40"/> </a> <a  target="_blank" rel="noreferrer"> <img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/images/Languages/python.png" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeynepaslierhan&show_icons=true&locale=en&layout=compact" alt="zeynepaslierhan" /></p>
 
