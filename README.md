@@ -2,7 +2,7 @@
 📫 How to reach me: zeynepaslierhan@gmail.com
 <h3 align="left">My Accounts:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zeynepaslierhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeynepaslierhan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zeynep-aslı-erhan-a55310224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeynepaslierhan" height="30" width="40" /></a>
 <a href="https://instagram.com/zeynepaslierhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zeynepaslierhan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/zeynepaslierhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zeynepaslierhan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/zeynepaslierhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zeynepaslierhan" height="30" width="40" /></a>
