@@ -1,6 +1,6 @@
 <h1 align="center">Zeynep Asli Erhan <img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/images/Profile/hi.gif" height="30" width="30"></h1>
-<h3 align="center"><img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/images/Profile/Gmail.png" height="20" width="20"> How to reach me: zeynepaslierhan@gmail.com</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zeynepaslierhan&label=Profile%20views&color=0e75b6&style=flat" alt="zeynepaslierhan" /> </p>
+<h3 align="center"><img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/images/Profile/Gmail.png" height="20" width="20" How to reach me: zeynepaslierhan@gmail.com</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeynepaslierhan&label=Profile%20views&color=0e75b6&style=flat" alt="zeynepaslierhan" /> </p>
 <h3 align="center">My Accounts:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/zeynep-aslı-erhan-a55310224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeynepaslierhan" height="30" width="40" /></a>
