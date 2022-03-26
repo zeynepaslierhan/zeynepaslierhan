@@ -1,4 +1,4 @@
-<h1 align="center">Zeynep Asli Erhan</h1>
+<h1 align="center">Zeynep Asli Erhan <img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/images/hi.gif" height="30" width="30"></h1>
 <h3 align="center">📫 How to reach me: zeynepaslierhan@gmail.com</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zeynepaslierhan&label=Profile%20views&color=0e75b6&style=flat" alt="zeynepaslierhan" /> </p>
 <h3 align="center">My Accounts:</h3>
