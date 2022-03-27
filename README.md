@@ -5,8 +5,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/zeynep-aslı-erhan-a55310224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/zeynepaslierhan/zeynepaslierhan/main/images/Accounts/linkedin.svg" alt="zeynepaslierhan" height="40" width="40" /></a>
 <a href="https://instagram.com/zeynepaslierhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/zeynepaslierhan/zeynepaslierhan/main/images/Accounts/instagram.svg" alt="zeynepaslierhan" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/zeynepaslierhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zeynepaslierhan" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/zeynepaslierhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/zeynepaslierhan/zeynepaslierhan/main/images/Accounts/hackerrank.svg" alt="zeynepaslierhan" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/zeynepaslierhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/zeynepaslierhan/zeynepaslierhan/main/images/Accounts/leetcode.svg" alt="zeynepaslierhan" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/16939471/zeynep-asl%c4%b1-erhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/zeynepaslierhan/zeynepaslierhan/main/images/Accounts/Stack-overflow.svg" alt="zeynepaslierhan" height="40" width="40" /></a>
 <a href="https://open.spotify.com/user/6wu1i2nos781lhfgm93g0insr?si=e3599ba0307a4cb9" target="blank"><img align="center" src="https://raw.githubusercontent.com/zeynepaslierhan/zeynepaslierhan/main/images/Accounts/spotify.svg" alt="zeynepaslierhan" height="40" width="40" /></a>
 </p>
 
