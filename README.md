@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeynepaslierhan&label=Profile%20views&color=0e75b6&style=flat" alt="zeynepaslierhan" /> </p>
 <h3 align="left">My Accounts:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zeynep-aslı-erhan-a55310224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/zeynepaslierhan/zeynepaslierhan/main/images/Accounts/linkedin.svg" alt="zeynepaslierhan" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/zeynepaslierhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/zeynepaslierhan/zeynepaslierhan/main/images/Accounts/linkedin.svg" alt="zeynepaslierhan" height="40" width="40" /></a>
 <a href="https://instagram.com/zeynepaslierhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/zeynepaslierhan/zeynepaslierhan/main/images/Accounts/instagram.svg" alt="zeynepaslierhan" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/zeynepaslierhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/zeynepaslierhan/zeynepaslierhan/main/images/Accounts/hackerrank.svg" alt="zeynepaslierhan" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/zeynepaslierhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/zeynepaslierhan/zeynepaslierhan/main/images/Accounts/leetcode.svg" alt="zeynepaslierhan" height="40" width="40" /></a>
