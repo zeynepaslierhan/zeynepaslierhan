@@ -1,7 +1,10 @@
 <h1 align="left">Hi!<img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/images/Profile/hi.gif" height="30" width="30">I'm Zeynep Asli Erhan</h1>
 
+
 <h3 align="left"> How to reach me: zeynepaslierhan@gmail.com<img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/images/Profile/Gmail.gif" height="60" width="90"></h3>
 <p align="left"> 
+<h3 align="center">I'm studing on Unity <img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/images/Profile/Unity.svg" height="40" width="40"></h3>
+
 
 <h3 align="left">I'm study on Unity <img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/images/Profile/Unity.svg" height="40" width="40"></h3>
 
