@@ -3,9 +3,6 @@
 <p align="center"><img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/images/Profile/Gmail.gif" width="40"></p>
 <h3 align="center"> How to reach me: zeynepaslierhan@gmail.com</h3>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=zeynepaslierhan&label=Profile%20views&color=0e75b6&style=flat" alt="zeynepaslierhan"/></p>
-
 <h3 align="left">My Accounts:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/zeynepaslierhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/zeynepaslierhan/zeynepaslierhan/main/images/Accounts/linkedin.svg" alt="zeynepaslierhan" height="40" width="40" /></a>
