@@ -1,6 +1,4 @@
 <h1 align="center">Hi!<img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/images/Profile/hi.gif" height="30" width="30">I'm Zeynep Asli Erhan</h1>
-
-<p align="center"><img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/images/Profile/Gmail.gif" width="40"></p>
 <h3 align="center"> How to reach me: zeynepaslierhan@gmail.com</h3>
 
 <h3 align="left">My Accounts:</h3>
