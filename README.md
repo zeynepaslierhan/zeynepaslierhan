@@ -25,5 +25,3 @@ Bilgisayar mühendisi öğrencisi olarak yaptığım projeleri, öğrendiğim i�
 ***📩 İletişim için***: softwaredeveloperarchive@gmail.com
 
 [***🌐 Linkedin hesabım..***](https://www.linkedin.com/in/zeynepaslierhan/)
-
-[***📒Bilgisayar Mühendisliği derslerinde aldığım notların pdfleri***](https://github.com/zeynepaslierhan/Ders_Notlari)
