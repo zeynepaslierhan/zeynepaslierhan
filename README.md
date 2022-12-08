@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/zeynepaslierhan/.NetCoreArchive"><img src="https://github.com/zeynepaslierhan/.NetCorePractices/blob/main/img/Readme/Logo.png" alt="SoftwareDeveloperArchive" width="200"></a>
+  <a href="https://github.com/zeynepaslierhan/.NetCoreArchive"><img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/img/Logo.png" alt="SoftwareDeveloperArchive" width="200"></a>
   <br>
   Software Developer Archive 
   <br>
@@ -16,7 +16,7 @@ Bilgisayar mühendisi öğrencisi olarak yaptığım projeleri, öğrendiğim i�
 * 📚 [@softwaredeveloperarchive instagram hesabımdan](https://www.instagram.com/softwaredeveloperarchive/) da daha teorik kısımları inceleyebilirsiniz.
 
 
-<img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/img/BanaBenziyor.gif" align="right" height="200">
+<img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/img/gifs/BanaBenziyor.gif" align="right" height="200">
 
 
 📌 Şuan diğer konulara kıyasla daha çok odaklandığım konu .Net Core ile web geliştirmek. Youtube'da devam eden .Net Core serilerim:
