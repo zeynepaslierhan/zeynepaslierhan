@@ -6,20 +6,32 @@
   <br>
 </h1>
 
-Merhaba.. Ben Zeynep Aslı Erhan 👩🏼‍💻,
+:wave: Merhaba.. Ben Zeynep Aslı Erhan,
 
-Bilgisayar mühendisi öğrencisi olarak yaptığım projeleri, öğrendiğim içeriklerin notlarını paylaşıyorum. 
+<img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/img/gifs/BanaBenziyor.gif" align="right" height="200">
 
-🗃 Uzun zamandır öğrendiğim konularda not alıp kendi arşivimde saklıyordum. Başka öğrencilerin, yazılımcıların veya bu konuda ilgisi olan herhangi birinin notlarımdan fayda görebilmesi için Software Developer Archive hesaplarını kurdum. 
+🗃 Yazılım ve donanım hakkında elde ettiğim bilgi ve deneyimlerle; ortak ilgi alanlarında ihtiyaç duyabileceğiniz bilgilere ulaşmada sizlere etkili ve verimli olmanızı sağlayacak kaynak oluşturdum. Bu kaynaklarda:
+
+1. 📌 Hangi yazılım araçlarına ihtiyaç duyulduğu *(Veritabanı, IDE ,Framework, Versiyon, SDK , .. vb)*
+2. 📌 Projelerin kurulumları 🔧
+3. 📌 Kodların ne maksatla yazıldığı,hangi işlevleri yerine getirdiği, nasıl uygulanabileceği
+4. 📌 Proje mimarisinde ihtiyaç duyulan konular *(Nesneye Yönelik Programlama, Veritabanı Yönetimi, Git ve Github kullanımı... vb) 🗃️*
+  
+     > Bu konuların içerilik detaylarına [@softwaredeveloperarchive instagram hesabımdan](https://www.instagram.com/softwaredeveloperarchive/) ulaşabilirsiniz
+
+5. 📌 Kaynakça bölümü
+
+    > 🚨  Her notun kaynakçası özellikle ve titizlikle belirtilmiştir. Bu kaynakçalardan edinilen bilgiler benim tarafımdan **derlenmiştir.** 
+
+---
 
 * 💻 [@softwaredeveloperarchive Youtube kanalımdan](https://www.youtube.com/channel/UCjyA7k3irGFgjYkuH-QVhfw/featured) kodların yapılış anları, 
 * 📚 [@softwaredeveloperarchive instagram hesabımdan](https://www.instagram.com/softwaredeveloperarchive/) da daha teorik kısımları inceleyebilirsiniz.
 
 
-<img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/img/gifs/BanaBenziyor.gif" align="right" height="200">
 
 
-📌 Şuan diğer konulara kıyasla daha çok odaklandığım konu .Net Core ile web geliştirmek. Youtube'da devam eden .Net Core serilerim:
+Youtube'da devam eden .Net Core serilerim:
 
 [![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=zeynepaslierhan&repo=.NetCorePractices)](https://github.com/zeynepaslierhan/.NetCorePractices)
 
