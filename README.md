@@ -10,7 +10,7 @@
 
 <img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/img/gifs/BanaBenziyor.gif" align="right" height="200">
 
-🗃 Yazılım ve donanım hakkında elde ettiğim bilgi ve deneyimlerle; ortak ilgi alanlarında ihtiyaç duyabileceğiniz bilgilere ulaşmada sizlere etkili ve verimli olmanızı sağlayacak kaynak oluşturdum. Bu kaynaklarda:
+🗃 Yazılım ve donanım hakkında elde ettiğim bilgi ve deneyimlerle; ortak ilgi alanlarında ihtiyaç duyabileceğiniz bilgilere ulaşmada sizlere etkili ve verimli olmanızı sağlayacak kaynak oluşturdum. Bu kaynaklar uygun ve doğru bilgiye ulaşmanızda zaman kazanmanızı sağlayacak. Bu kaynaklarda:
 
 1. 📌 Hangi yazılım araçlarına ihtiyaç duyulduğu *(Veritabanı, IDE ,Framework, Versiyon, SDK , .. vb)*
 2. 📌 Projelerin kurulumları 🔧
