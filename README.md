@@ -37,6 +37,10 @@ Youtube'da devam eden .Net Core serilerim:
 
 [![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=zeynepaslierhan&repo=.NetCoreArchive)](https://github.com/zeynepaslierhan/.NetCoreArchive)
 
+Youtube'da devam eden Kotlin ile Android Uygulama Geliştirme Serim:
+
+[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=zeynepaslierhan&repo=AndroidAppwithKotlin)]([https://github.com/zeynepaslierhan/.NetCorePractices](https://github.com/zeynepaslierhan/AndroidAppwithKotlin))
+
 ---
 ## İletişim :telephone_receiver:
 
