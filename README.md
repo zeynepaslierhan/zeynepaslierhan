@@ -12,7 +12,7 @@
 
 🗃 Yazılım ve donanım hakkında elde ettiğim bilgi ve deneyimlerle; ortak ilgi alanlarında ihtiyaç duyabileceğiniz bilgilere ulaşmada sizlere etkili ve verimli olmanızı sağlayacak kaynak oluşturdum. Bu kaynaklar uygun ve doğru bilgiye ulaşmanızda zaman kazanmanızı sağlayacak. Bu kaynaklarda:
 
-1. 📌 Hangi yazılım araçlarına ihtiyaç duyulduğu *(Veritabanı, IDE ,Framework, Versiyon, SDK , .. vb)*
+1. 📌 Hangi yazılım araçlarına ihtiyaç duyulduğu *(Veri tabanı, IDE ,Framework, Versiyon, SDK , .. vb)*
 2. 📌 Projelerin kurulumları 🔧
 3. 📌 Kodların ne maksatla yazıldığı,hangi işlevleri yerine getirdiği, nasıl uygulanabileceği
 4. 📌 Proje mimarisinde ihtiyaç duyulan konular *(Nesneye Yönelik Programlama, Veritabanı Yönetimi, Git ve Github kullanımı... vb) 🗃️*
