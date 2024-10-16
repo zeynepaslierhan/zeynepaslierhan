@@ -1,11 +1,3 @@
-<h1 align="center">
-  <br>
-  <a href="https://github.com/zeynepaslierhan/.NetCoreArchive"><img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/img/Logo.png" alt="SoftwareDeveloperArchive" width="200"></a>
-  <br>
-  Software Developer Archive 
-  <br>
-</h1>
-
 :wave: Merhaba.. Ben Zeynep Aslı Erhan,
 
 <img src="https://github.com/zeynepaslierhan/zeynepaslierhan/blob/main/img/gifs/BanaBenziyor.gif" align="right" height="200">
